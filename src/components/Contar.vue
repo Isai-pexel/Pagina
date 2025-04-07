@@ -3,7 +3,6 @@
  <p>{{ contador }}</p>
  <button @click="incrementar">Aumentar</button>
  <button @click="decrementar">Disminuir</button>
-
 </template>
 
 <script setup>
