@@ -1,5 +1,5 @@
 <template>
-  <Header></Header>
+  <Header :mensaje="texto"></Header>
 <div class="container">
   <SideBar></SideBar>
   <div class ="content">
